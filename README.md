@@ -1,6 +1,6 @@
 This script provides a configuration menu for managing Office 365 (O365) users and their settings. Here's a quick summary of what it does:
 		
-        ShowMenu Function: Displays a menu with options for O365 configuration tasks like connecting to Microsoft Teams, checking users' phone numbers, configuring users, and resetting users.
+           ShowMenu Function: Displays a menu with options for O365 configuration tasks like connecting to Microsoft Teams, checking users' phone numbers, configuring users, and resetting users.
 	  ExecuteAction Function: Executes the action selected by the user.
 		
     Main Loop: Continuously prompts the user for input while the script runs.
